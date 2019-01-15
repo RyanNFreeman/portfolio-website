@@ -3588,7 +3588,7 @@ input, select, textarea {
 
 	.image.featured img {
 		width: 80%;
-		height: 400px;
+		height: 500px;
 		margin: 0 auto;
 		object-fit: cover;
 	}
