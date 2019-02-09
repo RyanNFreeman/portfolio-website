@@ -3592,4 +3592,15 @@ input, select, textarea {
 		margin: 0 auto;
 		object-fit: cover;
 	}
-		
+	
+	@media screen and (max-width: 1280px) {
+	#intro header h2 {display: none;
+		}
+	}
+
+	@media screen and (max-width: 1280px) {
+		#sidebar {flex-direction: column;
+			}
+		}
+
+	
